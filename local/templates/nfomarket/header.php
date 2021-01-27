@@ -114,7 +114,7 @@ $isIndexPage = $APPLICATION->getCurPage(false) == SITE_DIR;
                                 </svg>
                             </a>
 
-                            <a href="/auth" class="header__znacki">
+                            <a href="/login" class="header__znacki">
                                 <svg
                                     width="15"
                                     height="19"
