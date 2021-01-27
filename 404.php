@@ -12,7 +12,7 @@ $APPLICATION->SetTitle("Страница не найдена");?>
     <div class="container">
         <div class="row">
             <div class="col-lg-1"></div>
-            <div class="col-lg-5"><h1 class="error_404">404</h1>
+            <div class="col-lg-5 col-sm-6"><h1 class="error_404">404</h1>
                 <p class="error_description">Ошибка 404: страница не найдена. Выберете нужную
                     в меню или воспользуйтесь разделом <a href="/help">Помощь</a></p>
                 <a href="/" class="catalog main_a">На главную &nbsp; <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
